@@ -26,6 +26,6 @@ The report uses the following design elements for visual clarity:
 - Open the file in Power BI Desktop.
 
 ### **Option 2: View Online**
-- Access the report via Power BI Service: [View the report online]("https://app.powerbi.com/view?r=eyJrIjoiZmJjMTdiMDgtNjIzNC00ZTg0LTlkYWYtNTMyNTgzNWI3MjVlIiwidCI6IjZjMTEzNTE4LWI0ZjktNDRhNS1iNDk1LWYzZjViZDk0NjMwZCJ9").
+- Access the report via Power BI Service: [View the report online]([https://app.powerbi.com/view?r=eyJrIjoiZmJjMTdiMDgtNjIzNC00ZTg0LTlkYWYtNTMyNTgzNWI3MjVlIiwidCI6IjZjMTEzNTE4LWI0ZjktNDRhNS1iNDk1LWYzZjViZDk0NjMwZCJ9]
 
 ## 📂 Repository Structure
